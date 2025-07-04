@@ -119,8 +119,8 @@
       "type": "text",
       "x": -736.6176803159052,
       "y": 2496.880049013608,
-      "width": 426.1596374511719,
-      "height": 340,
+      "width": 434.99163818359375,
+      "height": 360,
       "angle": 0,
       "strokeColor": "#1971c2",
       "backgroundColor": "transparent",
@@ -134,20 +134,20 @@
       "index": "aL",
       "roundness": null,
       "seed": 1382776044,
-      "version": 1112,
-      "versionNonce": 1689306015,
+      "version": 1188,
+      "versionNonce": 1606349343,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1751561815535,
+      "updated": 1751563170451,
       "link": null,
       "locked": false,
-      "text": "    QUESTION:\n1. what is TCP/IP\n2. what is socket?\n3. kind of protocol and its usage\n4. what happen if the packet is loss?\n5. how do each network-core router agree on\n   transmission speed to avoid packet loss?\n6. what is broadband/narrowband?\n7. what is upstream and downstream?\n8. how to determine a network is LAN or not?\n9. what is access point, router, switch, an the relation\n   with the ethernet and wifi.\n10. does every type of communication implement each \n     protocol layer stack?\n11. what is RFC?\n12. what is considered a Web??\n",
+      "text": "    QUESTION:\n1. what is TCP/IP\n2. what is socket?\n3. kind of protocol and its usage\n4. what happen if the packet is loss?\n5. how do each network-core router agree on\n   transmission speed to avoid packet loss?\n6. what is broadband/narrowband?\n7. what is upstream and downstream?\n8. how to determine a network is LAN or not?\n9. what is access point, router, switch, an the relation\n   with the ethernet and wifi.\n10. does every type of communication implement each \n     protocol layer stack?\n11. what is RFC?\n12. what is considered a Web??\n13. how about web socket, the diff between the socket\n",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "    QUESTION:\n1. what is TCP/IP\n2. what is socket?\n3. kind of protocol and its usage\n4. what happen if the packet is loss?\n5. how do each network-core router agree on\n   transmission speed to avoid packet loss?\n6. what is broadband/narrowband?\n7. what is upstream and downstream?\n8. how to determine a network is LAN or not?\n9. what is access point, router, switch, an the relation\n   with the ethernet and wifi.\n10. does every type of communication implement each \n     protocol layer stack?\n11. what is RFC?\n12. what is considered a Web??\n",
+      "originalText": "    QUESTION:\n1. what is TCP/IP\n2. what is socket?\n3. kind of protocol and its usage\n4. what happen if the packet is loss?\n5. how do each network-core router agree on\n   transmission speed to avoid packet loss?\n6. what is broadband/narrowband?\n7. what is upstream and downstream?\n8. how to determine a network is LAN or not?\n9. what is access point, router, switch, an the relation\n   with the ethernet and wifi.\n10. does every type of communication implement each \n     protocol layer stack?\n11. what is RFC?\n12. what is considered a Web??\n13. how about web socket, the diff between the socket\n",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -695,8 +695,8 @@
       "type": "arrow",
       "x": 582.6158878433005,
       "y": 1214.5565706670213,
-      "width": 1.25,
-      "height": 28.75,
+      "width": 0.6399098408762711,
+      "height": 23.86927872701017,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -712,11 +712,11 @@
         "type": 2
       },
       "seed": 145235761,
-      "version": 125,
-      "versionNonce": 637031487,
+      "version": 153,
+      "versionNonce": 314435953,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1751476762703,
+      "updated": 1751563855774,
       "link": null,
       "locked": false,
       "points": [
@@ -725,8 +725,8 @@
           0
         ],
         [
-          1.25,
-          28.75
+          0.6399098408762711,
+          23.86927872701017
         ]
       ],
       "lastCommittedPoint": null,
@@ -737,8 +737,8 @@
       },
       "endBinding": {
         "elementId": "F7o1-vSvrxQwTmDGdMnH2",
-        "focus": -0.06106321839080383,
-        "gap": 6.25
+        "focus": -0.0695559239593107,
+        "gap": 1.369278727010169
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -981,16 +981,20 @@
         "type": 3
       },
       "seed": 1931638527,
-      "version": 137,
-      "versionNonce": 1231206097,
+      "version": 140,
+      "versionNonce": 170637521,
       "isDeleted": false,
       "boundElements": [
         {
           "id": "idmmP1FOw-Q14BbHP2ivH",
           "type": "arrow"
+        },
+        {
+          "id": "t9wdSO-iBWiJPMmZhOx9f",
+          "type": "arrow"
         }
       ],
-      "updated": 1751476761673,
+      "updated": 1751563827794,
       "link": null,
       "locked": false
     },
@@ -1016,8 +1020,8 @@
         "type": 3
       },
       "seed": 1792622367,
-      "version": 134,
-      "versionNonce": 839775889,
+      "version": 135,
+      "versionNonce": 1376783505,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1027,9 +1031,13 @@
         {
           "id": "eVkM2J1QE7bY_1xrSRbEW",
           "type": "arrow"
+        },
+        {
+          "id": "PenmVlhmAs3sgGlnnpNqX",
+          "type": "arrow"
         }
       ],
-      "updated": 1751476761673,
+      "updated": 1751563811541,
       "link": null,
       "locked": false
     },
@@ -1071,10 +1079,10 @@
     {
       "id": "idmmP1FOw-Q14BbHP2ivH",
       "type": "arrow",
-      "x": 953.8658878433005,
-      "y": 1152.0565706670213,
-      "width": 0,
-      "height": 22.5,
+      "x": 953.8658878433004,
+      "y": 1152.3932402849482,
+      "width": 0.8095779038374076,
+      "height": 23.012585164176926,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1090,11 +1098,11 @@
         "type": 2
       },
       "seed": 423445343,
-      "version": 258,
-      "versionNonce": 1012976863,
+      "version": 259,
+      "versionNonce": 949315679,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1751476762704,
+      "updated": 1751563823526,
       "link": null,
       "locked": false,
       "points": [
@@ -1103,8 +1111,8 @@
           0
         ],
         [
-          0,
-          22.5
+          -0.8095779038374076,
+          23.012585164176926
         ]
       ],
       "lastCommittedPoint": null,
@@ -1128,7 +1136,7 @@
       "x": 956.3658878433005,
       "y": 1199.5565706670213,
       "width": 1.25,
-      "height": 28.75,
+      "height": 25.699549204381583,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1144,11 +1152,11 @@
         "type": 2
       },
       "seed": 815497087,
-      "version": 271,
-      "versionNonce": 17588511,
+      "version": 278,
+      "versionNonce": 632058449,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1751476762704,
+      "updated": 1751563859763,
       "link": null,
       "locked": false,
       "points": [
@@ -1158,7 +1166,7 @@
         ],
         [
           1.25,
-          28.75
+          25.699549204381583
         ]
       ],
       "lastCommittedPoint": null,
@@ -1169,8 +1177,8 @@
       },
       "endBinding": {
         "elementId": "eV5brUh6ZAMt1QWChcd5A",
-        "focus": -0.061063218390801796,
-        "gap": 6.25
+        "focus": -0.058445296618448626,
+        "gap": 3.199549204381583
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -1665,7 +1673,7 @@
       "x": 490.7581173866105,
       "y": 1830.208476341205,
       "width": 580.607421875,
-      "height": 380,
+      "height": 400,
       "angle": 0,
       "strokeColor": "#f08c00",
       "backgroundColor": "transparent",
@@ -1679,20 +1687,20 @@
       "index": "b02",
       "roundness": null,
       "seed": 538019935,
-      "version": 1230,
-      "versionNonce": 1402421823,
+      "version": 1561,
+      "versionNonce": 899935935,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1751560261559,
+      "updated": 1751563668890,
       "link": null,
       "locked": false,
-      "text": "- Although by the capability (above) that needed to transport message,\n  currently, there are only 2 major players of the transport layer, namely\n  TCP and UDP.\n\nTCP PROTOCOL:\n- Connection-oriented:\n  Before sending data to the other end system, there is mechanism \n  for checking whether the the other party is ready to communicate.\n  Also support full duplex communication.\n- Reliable data transfer:\n  The mechanism of the TCP guarantee the message will be transported\n  error free. Also has mechanism for congestion-control. Data will be sent \n  in order\n\nUDP PROTOCOL:\n- No handshaking mechanism.\n- Cannot be guarantee as a error-free service.\n- Transported messages can be out of order.\n- But it is LIGHTWEIGT protocol.",
+      "text": "- By combining the capabilities (throughput, timing, ) of transport layer,\n  we can technically derived many kinds of transport layer to choose from.\n  But, there are only 2 major players of the transport layer, namely\n  TCP and UDP.\n\nTCP PROTOCOL:\n- Connection-oriented:\n  Before sending data to the other end system, there is mechanism \n  for checking whether the the other party is ready to communicate.\n  Also support full duplex communication.\n- Reliable data transfer:\n  The mechanism of the TCP guarantee the message will be transported\n  error free. Also has mechanism for congestion-control. Data will be sent \n  in order\n\nUDP PROTOCOL:\n- No handshaking mechanism.\n- Cannot be guarantee as a error-free service.\n- Transported messages can be out of order.\n- But it is LIGHTWEIGT protocol.",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "- Although by the capability (above) that needed to transport message,\n  currently, there are only 2 major players of the transport layer, namely\n  TCP and UDP.\n\nTCP PROTOCOL:\n- Connection-oriented:\n  Before sending data to the other end system, there is mechanism \n  for checking whether the the other party is ready to communicate.\n  Also support full duplex communication.\n- Reliable data transfer:\n  The mechanism of the TCP guarantee the message will be transported\n  error free. Also has mechanism for congestion-control. Data will be sent \n  in order\n\nUDP PROTOCOL:\n- No handshaking mechanism.\n- Cannot be guarantee as a error-free service.\n- Transported messages can be out of order.\n- But it is LIGHTWEIGT protocol.",
+      "originalText": "- By combining the capabilities (throughput, timing, ) of transport layer,\n  we can technically derived many kinds of transport layer to choose from.\n  But, there are only 2 major players of the transport layer, namely\n  TCP and UDP.\n\nTCP PROTOCOL:\n- Connection-oriented:\n  Before sending data to the other end system, there is mechanism \n  for checking whether the the other party is ready to communicate.\n  Also support full duplex communication.\n- Reliable data transfer:\n  The mechanism of the TCP guarantee the message will be transported\n  error free. Also has mechanism for congestion-control. Data will be sent \n  in order\n\nUDP PROTOCOL:\n- No handshaking mechanism.\n- Cannot be guarantee as a error-free service.\n- Transported messages can be out of order.\n- But it is LIGHTWEIGT protocol.",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -1745,8 +1753,8 @@
     {
       "id": "ZTzTrp1JFhhIE1LG0H3S3",
       "type": "text",
-      "x": 530.3744251138405,
-      "y": 2257.679991203663,
+      "x": 527.3988744067672,
+      "y": 2260.133693584839,
       "width": 506.04803466796875,
       "height": 128.33822827813577,
       "angle": 0,
@@ -1762,11 +1770,11 @@
       "index": "b05",
       "roundness": null,
       "seed": 983975679,
-      "version": 850,
-      "versionNonce": 1695122079,
+      "version": 889,
+      "versionNonce": 1089289777,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1751560804549,
+      "updated": 1751563747897,
       "link": null,
       "locked": false,
       "text": "NOTE. Over the years, the was improvement for the protocol because\nboth of them didn't have internal mechanism for encryption.\nSo the community developed the Transport Layer Security (TLS). This\nprotocol is the same layer with both of them and also doesn't \nconsidered as the third protocol because it act as an improvement for\nthe TCP. TLS also has its own socket where it can be used by the \napplication to be encrypted and then passed to the TCP socket. ",
@@ -1782,8 +1790,8 @@
     {
       "id": "8RFWPC60NuYba4vhVKv-a",
       "type": "rectangle",
-      "x": 506.09349216371993,
-      "y": 2249.852051000239,
+      "x": 499.7740731887959,
+      "y": 2253.605743676956,
       "width": 545.6820194579727,
       "height": 140.5738223428034,
       "angle": 0,
@@ -1801,11 +1809,11 @@
         "type": 3
       },
       "seed": 627729759,
-      "version": 87,
-      "versionNonce": 272349681,
+      "version": 144,
+      "versionNonce": 1998253137,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1751560826243,
+      "updated": 1751563750399,
       "link": null,
       "locked": false
     },
@@ -1829,22 +1837,214 @@
       "index": "b07",
       "roundness": null,
       "seed": 1457221361,
-      "version": 544,
-      "versionNonce": 887874079,
+      "version": 545,
+      "versionNonce": 506554673,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1751562754525,
+      "updated": 1751563514212,
       "link": null,
       "locked": false,
-      "text": "- The application layer protocol itself determines the specification of the\n  thing around the application such as the types of messages, the \n  response, the field of the message and it semantic.\n- Example of application layer:\n  -> SMTP\n  -> HTTP\n  -> FTP\n  -> Telnet\n  -> Some proprietary protocol used in Skype.",
+      "text": "- The application layer protocol itself determines the specification of the\n  thing around the application such as the types of messages, the \n  response, the field of the message and its semantic.\n- Example of application layer:\n  -> SMTP\n  -> HTTP\n  -> FTP\n  -> Telnet\n  -> Some proprietary protocol used in Skype.",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "- The application layer protocol itself determines the specification of the\n  thing around the application such as the types of messages, the \n  response, the field of the message and it semantic.\n- Example of application layer:\n  -> SMTP\n  -> HTTP\n  -> FTP\n  -> Telnet\n  -> Some proprietary protocol used in Skype.",
+      "originalText": "- The application layer protocol itself determines the specification of the\n  thing around the application such as the types of messages, the \n  response, the field of the message and its semantic.\n- Example of application layer:\n  -> SMTP\n  -> HTTP\n  -> FTP\n  -> Telnet\n  -> Some proprietary protocol used in Skype.",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "PenmVlhmAs3sgGlnnpNqX",
+      "type": "arrow",
+      "x": 956.3612944939803,
+      "y": 1217.0926766691102,
+      "width": 0.5802704773711866,
+      "height": 23.107663525515818,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b08",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 288027039,
+      "version": 430,
+      "versionNonce": 455607729,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1751563816174,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.5802704773711866,
+          -23.107663525515818
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "VZo_rHS499P_-_xjf_3b9",
+        "focus": -0.060408368048938246,
+        "gap": 6.821557523426918
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "t9wdSO-iBWiJPMmZhOx9f",
+      "type": "arrow",
+      "x": 953.0057986188003,
+      "y": 1162.4896074275377,
+      "width": 0.5802704773711866,
+      "height": 19.447122570773672,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b09",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 267663185,
+      "version": 554,
+      "versionNonce": 1474264959,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1751563835821,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.5802704773711866,
+          -19.447122570773672
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": {
+        "elementId": "QShUGejnLV5aXji6L6IXq",
+        "focus": 0.008348187232334894,
+        "gap": 9.014085810257257
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "2QArZrFMBkLVTwPyV2Ubn",
+      "type": "arrow",
+      "x": 579.0205310759625,
+      "y": 1178.3519515647542,
+      "width": 0.5802704773711866,
+      "height": 19.447122570773672,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0B",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1932979135,
+      "version": 619,
+      "versionNonce": 1728433617,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1751563842608,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.5802704773711866,
+          -19.447122570773672
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "KR6q4nHQ2rsPzwvMre09I",
+      "type": "arrow",
+      "x": 583.2911621898285,
+      "y": 1226.549074135528,
+      "width": 0.5802704773711866,
+      "height": 19.447122570773672,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 4,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0C",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 83546111,
+      "version": 606,
+      "versionNonce": 2067989809,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1751563847881,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.5802704773711866,
+          -19.447122570773672
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
